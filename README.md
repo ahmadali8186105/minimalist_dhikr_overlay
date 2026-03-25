@@ -8,11 +8,11 @@ During your "Vibe Coding" sessions, When you're waiting for your AI agent to fin
 - **Always-On-Top**: Stays visible even when you're switching between VS Code, Cursor, and Chrome.
 - **Global Hotkeys**: Control everything without even focusing on the window.
 - **Dynamic Width**: Automatically grows as your count increases.
+- **Persist**: The app remembers your count even if you close it.
 
 ## Quick Start
 1. **Download**: download and extract `tasbih_app.zip`. https://github.com/ahmadali8186105/minimalist_dhikr_overlay/raw/refs/heads/main/tasbih_app.zip
 2. **Run**: Double-click 'main.exe'. (No installation needed!)
-3. **Persist**: The app remembers your count even if you close it.
 
 ## Global Shortcuts
 | Action | Key Combination |
